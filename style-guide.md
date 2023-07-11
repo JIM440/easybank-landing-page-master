@@ -1,0 +1,1 @@
+- Light Grayish Blue: hsl(220, 16%, 96%)
